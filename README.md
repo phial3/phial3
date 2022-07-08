@@ -1,4 +1,6 @@
-### Hi there 👋
+![](./header.png)
+
+### Hi boys 👋👋👋
 
 I ❤ Open Source. I love Rust and Go.
 
@@ -7,7 +9,6 @@ I ❤ Open Source. I love Rust and Go.
 - 💬 Communication with me about coding. 😍
 - 📫 How to reach me. [phial3.github.io](https://github.com/phial3)
 
-![](./header.png)
 
 <a href="https://github.com/dongzl">
   <img align="left" height=190px src="https://github-readme-stats.vercel.app/api?username=dongzl&show_icons=true&count_private=true" />
