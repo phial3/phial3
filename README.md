@@ -2,7 +2,7 @@
 
 ### Hi boys 👋👋👋
 
-I ❤ Open Source. I love C, Rust and Java.
+I ❤ Open Source. I love Rust, Python and Java.
 
 - 🌈 I'm currently working from home. 😎
 - 🤔 I'm thinking about how to make more money. 😁
