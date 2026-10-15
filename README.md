@@ -1,5 +1,7 @@
 ![](./header.png)
 
+![visitors](https://komarev.com/ghpvc/?username=phial3&label=Visitors&color=blueviolet)
+
 ### Hi boys 👋👋👋
 
 I ❤ Open Source. I love Rust, Python and Java.
@@ -9,6 +11,7 @@ I ❤ Open Source. I love Rust, Python and Java.
 - 💬 Communication with me about coding. 😍
 - 📫 How to reach me. [phial3.github.io](https://github.com/phial3)
 
+[![GitHub](https://img.shields.io/badge/GitHub-phial3-181717?logo=github&logoColor=white)](https://github.com/phial3)
 
 <a href="https://github.com/phial3">
   <img align="left" height=190px src="https://github-readme-stats.vercel.app/api?username=phial3&show_icons=true&count_private=true" />
@@ -18,6 +21,20 @@ I ❤ Open Source. I love Rust, Python and Java.
 </a>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+### GitHub Stats
+
+[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=phial3&theme=default)](https://github.com/phial3)
+
+### Activity Graph
+
+[![phial3's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phial3&theme=github-compact)](https://github.com/phial3)
 
 ### Languages and Tools:
 
@@ -32,12 +49,6 @@ I ❤ Open Source. I love Rust, Python and Java.
 <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="40"/>
 </p>
-
-### GitHub Stats
-
-[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **phial3/phial3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
