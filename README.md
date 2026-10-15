@@ -11,8 +11,6 @@ I ❤ Open Source. I love Rust, Python and Java.
 - 💬 Communication with me about coding. 😍
 - 📫 How to reach me. [phial3.github.io](https://github.com/phial3)
 
-[![GitHub](https://img.shields.io/badge/GitHub-phial3-181717?logo=github&logoColor=white)](https://github.com/phial3)
-
 <a href="https://github.com/phial3">
   <img align="left" height=190px src="https://github-readme-stats.vercel.app/api?username=phial3&show_icons=true&count_private=true" />
 </a>
@@ -34,7 +32,7 @@ I ❤ Open Source. I love Rust, Python and Java.
 
 ### Activity Graph
 
-[![phial3's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phial3&theme=github-compact)](https://github.com/phial3)
+[![phial3's github activity graph](https://ghchart.rshah.org/phial3)](https://github.com/phial3)
 
 ### Languages and Tools:
 
@@ -63,4 +61,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![GitHub](https://img.shields.io/badge/GitHub-phial3-181717?logo=github&logoColor=white)](https://github.com/phial3)
+[![Email](https://img.shields.io/badge/Email-feiyan.affection%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:feiyan.affection@gmail.com)
+
 -->
