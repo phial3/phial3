@@ -4,8 +4,8 @@
 
 I ❤ Open Source. I love Rust, Python and Java.
 
-- 🌈 I'm currently working from home. 😎
-- 🤔 I'm thinking about how to make more money. 😁
+- 🌈 I'm working on large models and AI. 😎
+- 🤔 I want to do something meaningful and interesting. 😁
 - 💬 Communication with me about coding. 😍
 - 📫 How to reach me. [phial3.github.io](https://github.com/phial3)
 
@@ -32,6 +32,12 @@ I ❤ Open Source. I love Rust, Python and Java.
 <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="40"/>
 </p>
+
+### GitHub Stats
+
+[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/phial3/phial3/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **phial3/phial3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
